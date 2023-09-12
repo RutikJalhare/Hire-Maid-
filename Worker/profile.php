@@ -447,6 +447,7 @@ update.style.display="block";
 </br>
 <input type="checkbox"  name="checkArr[]" value="Steam Ironing"> Steam Ironing
 </br><input type="checkbox"  name="checkArr[]" value="Laundry"> Laundry
+</br><input type="checkbox"  name="checkArr[]" value="Delivary Service"> Delivary Service
 </div>
   
                   <div class="d-flex justify-content-center">

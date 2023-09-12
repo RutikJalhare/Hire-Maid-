@@ -542,6 +542,7 @@ $res = str_replace( array(
 </br>
 <input type="checkbox"  name="checkArr[]" value="Steam Ironing"> Steam Ironing
 </br><input type="checkbox"  name="checkArr[]" value="Laundry"> Laundry
+</br><input type="checkbox"  name="checkArr[]" value="Delivary Service"> Delivary Service
 </div>
 
     
